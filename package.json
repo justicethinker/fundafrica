@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@lucid-evolution/lucid": "^0.4.27"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
